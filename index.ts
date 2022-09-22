@@ -1,7 +1,7 @@
 // "i haz insanez skillz." - tech
 
 window.location.href !=
-	"https://www.ixl.com/math/grade-5/evaluate-powers-of-ten" &&
+	"https://www.ixl.com/ela/grade-7/analyze-passages-from-a-long-walk-to-water-part-1" &&
 	(window.location.href =
 		"https://www.ixl.com/math/grade-5/evaluate-powers-of-ten");
 
